@@ -25,6 +25,7 @@ Before you choose a challenge, please note down our common minimum requirements 
 4.  **Coding Standard**  - You should configure  [scrutinizer-ci](https://scrutinizer-ci.com/)  so your code quality can be seen easily.
 5.  **Unit Testing**  - Submissions without unit tests will not be accepted. 
 6. **Github Readme**  - Write a nice Github Readme using markdown syntax. Make sure you include demo link and links to libraries used in readme.
+7. **No AI Tools** - Use of any code generating tools such as ChatGPT, Copilot etc are stricly prohibited.
 
 Failure to meet any of above guidelines will result in disqualification.
 
