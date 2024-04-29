@@ -31,12 +31,9 @@ Failure to meet any of above guidelines will result in disqualification.
 
 ## List of Challenges
 
-We have two kinds of challenges for Laravel:
+We have one challenge for UI:
 
 1.  Shopping cart
-2.  Laravel Plugin
-
-You need to complete any one. If you wish to complete two, we won't mind. 😉
 
 ### Challenge-1: Shopping Cart
 #### The Task
